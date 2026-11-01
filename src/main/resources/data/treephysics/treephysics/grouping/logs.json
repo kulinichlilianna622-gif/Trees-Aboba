@@ -1,0 +1,76 @@
+{
+  "groups": {
+    "trees_aboba:oak": [
+      "minecraft:oak_log",
+      "minecraft:oak_wood",
+      "minecraft:stripped_oak_log",
+      "minecraft:stripped_oak_wood"
+    ],
+    "trees_aboba:spruce": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_wood",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_wood"
+    ],
+    "trees_aboba:birch": [
+      "minecraft:birch_log",
+      "minecraft:birch_wood",
+      "minecraft:stripped_birch_log",
+      "minecraft:stripped_birch_wood"
+    ],
+    "trees_aboba:jungle": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_wood",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_wood"
+    ],
+    "trees_aboba:acacia": [
+      "minecraft:acacia_log",
+      "minecraft:acacia_wood",
+      "minecraft:stripped_acacia_log",
+      "minecraft:stripped_acacia_wood"
+    ],
+    "trees_aboba:dark_oak": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_wood",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_wood"
+    ],
+    "trees_aboba:mangrove": [
+      "minecraft:mangrove_log",
+      "minecraft:mangrove_wood",
+      "minecraft:stripped_mangrove_log",
+      "minecraft:stripped_mangrove_wood"
+    ],
+    "trees_aboba:cherry": [
+      "minecraft:cherry_log",
+      "minecraft:cherry_wood",
+      "minecraft:stripped_cherry_log",
+      "minecraft:stripped_cherry_wood"
+    ],
+    "trees_aboba:crimson": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_hyphae",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_hyphae"
+    ],
+    "trees_aboba:warped": [
+      "minecraft:warped_stem",
+      "minecraft:warped_hyphae",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_hyphae"
+    ],
+    "trees_aboba:biomesoplenty_redwood": [
+      "biomesoplenty:redwood_log",
+      "biomesoplenty:redwood_wood",
+      "biomesoplenty:stripped_redwood_log",
+      "biomesoplenty:stripped_redwood_wood"
+    ],
+    "trees_aboba:regions_unexplored_redwood": [
+      "regions_unexplored:redwood_log",
+      "regions_unexplored:redwood_wood",
+      "regions_unexplored:stripped_redwood_log",
+      "regions_unexplored:stripped_redwood_wood"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.treesaboba.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "com.treesaboba.TreesAbobaMixinPlugin",
+  "mixins": [
+    "treephysics.FloodFillUtilMixin",
+    "tht.TreePlacerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
